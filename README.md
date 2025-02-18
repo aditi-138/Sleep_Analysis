@@ -65,7 +65,9 @@ cd sleep-deprivation-ml
 Upload files:
 
 git add .
+
 git commit -m "Added dataset and notebook"
+
 git push origin main
 
 If using GitHub web, manually upload:
